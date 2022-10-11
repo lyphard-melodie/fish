@@ -196,15 +196,15 @@ public class ESManager {
     public void end() throws Exception{
         client.close();
     }
-<<<<<<< HEAD
+
 	@Test
 	public void lisi(){
       System.out.println("李四");
-=======
+
 	
 	@Test
 	public void zhangsan(){
       System.out.println("张三");
->>>>>>> abcbd7488f3edcb6660dd1d8a8eb66b6d1972eb1
+
     }
 }
