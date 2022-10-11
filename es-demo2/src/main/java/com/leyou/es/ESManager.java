@@ -196,5 +196,8 @@ public class ESManager {
     public void end() throws Exception{
         client.close();
     }
-
+	@Test
+	public void lisi(){
+      System.out.println("李四");
+    }
 }
